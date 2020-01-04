@@ -37,31 +37,30 @@ Une bonne séance de démarrage demande 90-120 minutes.
 
 ``` L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recommencer le lendemain.```
 
-* [ ] J'ai planifié une session de Mob, dans les agendas de tous les participants. 
+* [ ] J'ai planifié une session de Mob Programming, dans les agendas de tous les participants. 
 
 <div class="page-break"></div>
-## Setting up the Space
+## Préparer l'espace de travail
 
 ![Mob Programming Setup](images/MobProgrammingSetup.png)
 
-The default configuration of most rooms is not suitable for mobbing. 
-As a facilitator, it is your job to rearrange the room to the best of your ability.
-Tips:
- * Try to remove any distractions
- * Make it easy to move around the space
- * Have everyone facing the same direction, ideally looking at the same screen.
- * Bring an external mouse (external keyboard is a plus)
- * Have a whiteboard or similar place they can write.
- * While dark mode is great for solo programming, bright backgrounds are easier to see on a projector or tv.
+La configuration de la plupart des salles, ne convient pas à la pratique du Mob Programming. 
+En tant que facilitateur, il est de votre ressort de réorganiser la salle du mieux que vous pouvez. 
+Quelques pistes :
 
+* Essayez de retirer toutes les sources de distraction
+* Facilitez le déplacement au travers de la pièce
+* Orientez tout le monde dans la même direction, idéalement, vers le même écran
+* Apportez une souris externe (un clavier externe est un plus) 
+* Préparez un tableau blanc, ou un support similaire, sur lequel écrire
+* Bien que les thèmes sombres soient idéals pour programmer en solo, les thèmes clairs sont plus faciles à voir sur un projecteur ou une télévision
 
- * [ ] The space is setup
-   * [ ] The font is big enough that everyone can read it from any place in the room
-   * [ ] The screen is easy to see
-   * [ ] It is easy to move around
-   * [ ] I have set a timer to leave space for the retrospective at the end   
-    (30 minutes for the 1st time, 10-15 minutes thereafter)
-   
+ * [ ] L'espace de travail est prêt
+   * [ ] La police d'écriture est suffisamment grande pour être lisible de toute la pièce
+   * [ ] L'écran est bien visible
+   * [ ] On peut se déplacer facilement dans la pièce
+   * [ ] J'ai mis un chronomètre, permettant d'avoir du temps pour la rétro à la fin de l'atelier. 
+    (30 minutes la première fois, 10-15 minutes ensuite) 
 
 ## 1st Rotation
 
