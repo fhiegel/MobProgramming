@@ -4,30 +4,30 @@ Par [@LlewellynFalco](https://twitter.com/llewellynfalco)
 Ce document est un petit guide pour vous accompagner à la facilitation de votre première session de Mob Programming avec votre équipe.
 Faciliter un mob est une compétence à part entière, et ne nécessite pas d'expertise technique préalable.
 
-## Picking the problem  
-The goal in the beginning should be to do something simple 
-and have fun learning to mob. As such, you should start with an easy problem.   
+## Choisir le problème
+L'objectif au début, devrait être de réaliser quelque chose de simple et de s'amuser en apprenant le mob. Ainsi, vous devriez commencer avec un problème simple. 
 
-How do you know if the problem is easy enough?  
-Ask your developers if they believe they can solve this problem alone in under an hour. 
+Comment savoir si un problème est suffisamment simple ?
+Demandez à vos développeurs s'il pensent résoudre le problème, seuls, en moins d'une heure.
 
-If you are new to mobbing, it's best to start with a simple exercise, not a work task.
-It is ok to take a simple task from your workload, just start very small. No, smaller.
+Si vous êtes nouveau dans la pratique du mob programming, il est plus approprié de commencer par un exercice, et non par une tâche de production.
+Néanmoins, c'est possible de prendre une tâche simple de votre encourt, commencez petit. Encore plus petit. 
 
-If you want a simple exercise, [The FizzBuzz kata](http://codingdojo.org/kata/FizzBuzz/) is a rather good starting point.
+Si vous cherchez un exercice simple, le [The FizzBuzz kata](http://codingdojo.org/kata/FizzBuzz/) reste un bon point de départ. 
 
-**Anti-pattern** : Let's do something no one on the team has ever done before... 
+**Anti-pattern** : Entreprendre quelque chose, que personne dans l'équipe, n'a encore fait. 
 
 ```
-Warning: If the problem is too difficult, your team will not solve it and immediately blame Mobbing instead of the difficulty of the task at hand.
+Attention : Si le problème est trop difficile, votre équipe ne le résoudra pas et blamera immédiatement le Mob, et non l'exercice lui-même. 
 ```
 
-### Computer setup
-It is important that you have the computer your are going to code on setup before you start the mob. Ask your developer if everything is setup so you can start coding. (If you are doing TDD, this mean a failing unit test)
+### Configurer le PC
+Il est important d'avoir configuré le PC que vous comptez utiliser pour code, avant de démarrer la séance de Mob.
+Demandez à vos développeurs si tout est prêt afin de pouvoir coder.
+(Si vous faites du TDD, cela signifie d'avoir un test en erreur) 
 
-
-* [ ] I have an easy problem selected.
-* [ ] I have asked my developer to setup a computer to program on.
+* [ ] J'ai sélectionné un problème simple. 
+* [ ] J'ai demandé à mes développeurs de préparer un ordinateur sur lequel coder. 
 
 ## Picking a time
 
