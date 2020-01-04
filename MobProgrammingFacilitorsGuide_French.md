@@ -18,7 +18,7 @@ Si vous cherchez un exercice simple, le [The FizzBuzz kata](http://codingdojo.or
 **Anti-pattern** : Entreprendre quelque chose, que personne dans l'équipe, n'a encore fait. 
 
 ```
-Attention : Si le problème est trop difficile, votre équipe ne le résoudra pas et blamera immédiatement le Mob, et non l'exercice lui-même. 
+Attention : Si le problème est trop difficile, votre équipe ne le résoudra pas et blâmera immédiatement le Mob, et non l'exercice lui-même. 
 ```
 
 ### Configurer le PC
@@ -29,14 +29,15 @@ Demandez à vos développeurs si tout est prêt afin de pouvoir coder.
 * [ ] J'ai sélectionné un problème simple. 
 * [ ] J'ai demandé à mes développeurs de préparer un ordinateur sur lequel coder. 
 
-## Picking a time
+## Plannifier la session
 
-A good starting time is between 90-120 minutes. Try not to do this during lunch if possible.
-Also, don't run over by missing lunch or staying late as this will prevent people from wanting to show up next time. 
+Une bonne séance de démarrage demande 90-120 minutes.
+Évitez si possible, de le faire sur la pause déjeuner. 
+Évitez également de vous précipitez en manquant le déjeuner, ou de finir en retard, car cela découragerait les gens de se présenter à la session suivante. 
 
-``` The primary goal is to have fun and leave people wanting to Mob again tomorrow.```
+``` L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recommencer le lendemain.```
 
-* [ ] I have a scheduled a time for mobbing on everyone's calendar
+* [ ] J'ai planifié une session de Mob, dans les agendas de tous les participants. 
 
 <div class="page-break"></div>
 ## Setting up the Space
