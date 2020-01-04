@@ -1,13 +1,13 @@
-# 1st Time Mob Programming Facilitor's Guide
-By [@LlewellynFalco](https://twitter.com/llewellynfalco)
+# Guide de facilitateur pour une première session de Mob Programming
+Par [@LlewellynFalco](https://twitter.com/llewellynfalco)
 
-
-This is a short guide to facilitating your 1st Mob Programming session with your team. Facilitating a mob is a separate skill, and does not require any prior technical expertise. 
+Ce document est un petit guide pour vous accompagner à la facilitation de votre première session de Mob Programming avec votre équipe.
+Faciliter un mob est une compétence à part entière, et ne nécessite pas d'expertise technique préalable.
 
 ## Picking the problem  
 The goal in the beginning should be to do something simple 
 and have fun learning to mob. As such, you should start with an easy problem.   
- 
+
 How do you know if the problem is easy enough?  
 Ask your developers if they believe they can solve this problem alone in under an hour. 
 
@@ -39,7 +39,6 @@ Also, don't run over by missing lunch or staying late as this will prevent peopl
 * [ ] I have a scheduled a time for mobbing on everyone's calendar
 
 <div class="page-break"></div>
-  
 ## Setting up the Space
 
 ![Mob Programming Setup](images/MobProgrammingSetup.png)
@@ -53,8 +52,8 @@ Tips:
  * Bring an external mouse (external keyboard is a plus)
  * Have a whiteboard or similar place they can write.
  * While dark mode is great for solo programming, bright backgrounds are easier to see on a projector or tv.
- 
- 
+
+
  * [ ] The space is setup
    * [ ] The font is big enough that everyone can read it from any place in the room
    * [ ] The screen is easy to see
@@ -62,7 +61,7 @@ Tips:
    * [ ] I have set a timer to leave space for the retrospective at the end   
     (30 minutes for the 1st time, 10-15 minutes thereafter)
    
- 
+
 ## 1st Rotation
 
 The 1st rotation is where the most things can go wrong. 
@@ -85,14 +84,14 @@ We agree to
    * & Respect
  * No phones or laptops during the mob
  * yes, and...
- 
+
  It is worth writing these down so everyone can see and refer back to them during the mob.
  It is a good idea to mention the no laptops ahead of time so no one brings them.
- 
+
  [The 'yes, and...' rule](https://kicp-workshops.uchicago.edu/eo2014/pdf/Tina-Feys-rules-of-improv.pdf) refers to building on whatever came before you. It means you can't delete and start over when it is your turn. 
- 
+
  * [ ] I have explained the working agreements to the mob
-  
+
 #### The Driver
 
 ``` No thinking at the keyboard ```
@@ -185,26 +184,26 @@ If the team is stuck call it out and get them moving again. If the team members 
   * Try smaller numbers. Don't try 4 if you haven't yet tried 1
   * Guess. `3 should give llama right?`
   * Multiple Ideas? Try all of them; then vote.
-  
+
 ### Let me discuss
  Lengthy explanations can be another form of inaction. Even though these usually come from a good place (wanting everyone to understand your reasoning), they are harmful.
  Make the navigator move and save the explanation for later if people are still confused. Don't let this turn into a meeting.
- 
+
  There are 2 reasons I commonly see for this. 
- 
+
  The first is the navigator is scared of being completely wrong or only partially right.  
- 
+
  The second is there are many choices and [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis#targetText=Analysis%20paralysis%20(or%20paralysis%20by,of%20action%20is%20decided%20upon.) takes over. 
- 
+
  ```It's in the doing of the work that we discover the work we have to do - @WoodyZuill```
 
- 
+
 ### That idea sucks
  Sometimes the driver, navigator, or mobber doesn't like a certain idea. That's ok, but it is not ok to not do it. Do it first then do it the other way. Then vote.
  Even if one of the ways is "Let's not do anything". Try that (it's quick), then try the idea. Then vote.
- 
+
  Part of what we are learning is it's ok to make mistakes and do dumb things. This is a cornerstone of physiological safety.
- 
+
 
 ## Retro
 
@@ -218,7 +217,7 @@ If the team is stuck call it out and get them moving again. If the team members 
 [Online MindMap](http://mindmup.com)  
 
  * [ ] I've shown the Retro videos (at least once) 
- 
+
 ### Smaller focus for better seeing
 Go through each of the following areas for observations. What did you see new in:
 * Tools
@@ -229,7 +228,6 @@ Go through each of the following areas for observations. What did you see new in
 * Emotions felt (Need the emotion + the triggering event)
 
 <div class="page-break"></div>  
-
 #### Emotions
 
 Emotions are often something not brought to work. But they are powerful indicators that something is **important**. Our job is to engage our analytical mind and find out what.
