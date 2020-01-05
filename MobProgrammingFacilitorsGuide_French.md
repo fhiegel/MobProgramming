@@ -35,7 +35,9 @@ Une bonne séance de démarrage demande 90-120 minutes.
 Évitez si possible, de le faire sur la pause déjeuner. 
 Évitez également de vous précipitez en manquant le déjeuner, ou de finir en retard, car cela découragerait les gens de se présenter à la session suivante. 
 
-``` L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recommencer le lendemain.```
+```
+L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recommencer le lendemain.
+```
 
 * [ ] J'ai planifié une session de Mob Programming, dans les agendas de tous les participants. 
 
@@ -54,7 +56,6 @@ Quelques pistes :
 * Apportez une souris externe (un clavier externe est un plus) 
 * Préparez un tableau blanc, ou un support similaire, sur lequel écrire
 * Bien que les thèmes sombres soient idéals pour programmer en solo, les thèmes clairs sont plus faciles à voir sur un projecteur ou une télévision
-
 
 
  * [ ] L'espace de travail est prêt
@@ -102,58 +103,66 @@ Ce qui signifie que vous ne pouvez pas tout effacer et repatir de zéro.
 
  * [ ] J'ai expliqué la charte de travail aux participants
 
-#### The Driver
+#### Le Pilote _(Driver)_
 
-``` No thinking at the keyboard ```
+```
+Ne pas cogiter au clavier
+```
 
-The person at the keyboard is called `The Driver`. They are only person typing. It is ok for them to ask question, but no decisions should be made by them.
+La personne au clavier est appelée `Le Pilote` (parfois appelé _'Conducteur'_ ou _'Driver'_ en anglais).
+Il s'agit de la seule personne qui écrit au clavier.
+Il peut poser des questions, mais ne doit pas prendre de décision. 
 
-Tip: If the driver starts doing things on their own, just repeat the `No Thinking at the keyboard` rule out load.
+Astuce : Si le Pilote comme à faire les choses de son propre chef, répétez simplement à haute voix, la règle `Ne pas cogiter au clavier`
 
-* [ ] The driver is listening and following the navigator
+* [ ] Le Pilote écoute le Co-Pilote, et suit ses instructions
 
-#### The Navigator
-  Speak in this order:
- ```
-  Intention    "Please create a variable called count"
-  Location     "Line 27 and a half (a new line between #27 & #28)"
-  Details      "Type v,a,r space count equals 1"
- ```
-This is where all the thinking should occur. 
-Make sure to make space for the navigator to try to talk (this mean silencing the mob), 
-it takes some practice to get right.
+#### Le Co-Pilote
 
-The intention of the navigator should be clear. 
-This often means writing an example on the white board,
-an english comment in the code, or a check list in notepad
+Il exprime, dans cet ordre :
 
-Always check that the navigator is doing something and moves us toward action. Do not spend much time talking about what to do. It is better to do something wrong than nothing at all.
-If they are stuck, prod them with questions. If they are discussing, force a **small** decision (we can revisit it later.)
+```
+  Intention      "Créé une variable que l'on appellera 'décompte'"
+  Emplacement    "À la ligne 27 et demi (une nouvelle ligne entre la #27 & #28)"
+  Details        "Tape v,a,r espace 'décompte' égal 1"
+```
 
-Two great questions to ask are
+C'est ici que toute la réflexion devrait avoir lieu. 
+Assurez-vous de ménager suffisamment d'espace pour que le Co-Pilote (parfois appelé _'Navigateur'_ ou _'Navigato'_en anglis) puisse s'exprimer (cela signifie de faire taire les autres participants du mob).
+Il faut un peu de pratique pour le faire correctement. 
 
-1) Does it work?
-1) Does the code need to be cleaned up?
+L'intention du navigateur devrait être claire.
+Cela demande parfois d'écrire un exemple sur le tableau blanc, un commentaire dans le code, ou une checklist dans un notepad. 
 
-#### The Mob
+Assurez-vous continuellement que le Co-Pilote est en train de faire quelque chose, et fait avancer le mob.
+Ne perdez pas trop de temps à discuter de quoi faire.
+Il est préférable de faire quelque chose de faux, plutôt que de ne rien faire. 
+Si le mob est bloqué, auiguillez-le avec quelques questions.
+Si le débat s'éternise, poussez les à prendre une **petite** décision (il sera toujours temps de revenir dessus ensuite). 
 
-In the beginning the rest of the mob is going to practice listening while being quiet. This is quite hard and will take some practice. If the navigator is stuck, they can ask the mob, but they must repeat anything they want to happen to the driver:
+Deux bonnes questions à poser :
 
-Example:  
-*Navigator*:  What should we do?  
-*Mobber 1*: I think we should try debugging.  
-*Mobber 2*: Yes I agree  
-*Navigator*: Driver, can you start the debugger.   
+1. Est-ce que cela fonctionne ? 
+1. Est-ce que vous voyez une meilleure manière d'écrire le code ? 
 
+#### Le Mob
 
+Au début, les participants au Mob renstent silencieux, et écoutent ce qu'il se passe.
+C'est assez difficile, et demande un peu de pratique.
+Lorsque le Co-Pilote est bloqué, il peut poser des questions au reste du Mob, mais il doit répéter au Pilote, tout ce qu'il souhaite voir réalisé. 
 
+Par exemple: 
 
-Tips: If you have 2 people who are afraid or new to the domain, separate them so they aren't the driver/navigator pair.
+>*Co-Pilote*:  Que devrait on faire ?
+*Mobber 1*: Je pense que l'on devrait debugguer. 
+*Mobber 2*: Je cautionne. 
+*Co-Pilote*: Pilote, Peux-tu ouvrir le debuggueur ? 
 
+Astuce : Si vous avez deux personnes timides, ou nouvelles dans le domaine, séparez-les pour qu'ils ne soient pas dans la même paire "Pilote/Co-Pilote"
 
-* [ ] Your phone has a 2-4 minute timer with a sound when done.
-* [ ] The Team has made some (small) progress
-* [ ] Everyone is talking and listening
+* [ ] Votre téléphone à un minuteur de 2-4 minutes, avec une sonnerie
+* [ ] L'équipe a fait quelques (petits) progrès
+* [ ] Tout le monde parle et écoute. 
 
 ## Rotations
 
