@@ -164,29 +164,34 @@ Astuce : Si vous avez deux personnes timides, ou nouvelles dans le domaine, sép
 * [ ] L'équipe a fait quelques (petits) progrès
 * [ ] Tout le monde parle et écoute. 
 
-## Rotations
+## Les Rotations
 
-Congratulations, you have gotten everyone to the keyboard at least once, now we can start the working on improving the flow.
+Bravo ! Vous avez fait passer tout le monde au moins une fois au clavier.
+Il est temps de commencer à travailler la fluidité. 
 
-At this point, as the facilitator, you should endeavor to talk only in questions. This is where you can start to loosen up on the strictness. You might also want to position yourself near the back of the room. 
-Keep an eye out for 
+À partir de ce moment, en temps que facilitateur, vous devriez vous efforcer de ne parler qu'en posant des questions.
+Vous pouvez également commencer à être moins strict, et vou devriez prendre place au fond de la pièce. 
 
-* Small victories to celebrate
-* People not listening
-* Not rotating / slow rotations
-* Confusion in the new navigator
-* New ways of using the tooling
-* Long periods between running or checking in  the code
-* Misunderstandings
-* The navigator skipping intention and moving straight to details
+Gardez un oeil sur :
 
-As facilitator you are here to help us learn and enjoy. If people are confused, slow them down and make space to regain understanding.   
-If someone in the group understands something the rest don't, make space for them to teach the rest of us.  
-If the team is stuck call it out and get them moving again. If the team members are not treating each other well, call that out as well.
+* Les petites victoires à célébrer
+* Les participants qui n'écoutent pas
+* Les non-rotations / les rotations lentes
+* La confusion des nouveaux Co-Pilote
+* Les nouvelles façons d'utiliser les outils
+* Les longues périodes entre deux exécutions ou vérifications du code
+* Les incompréhensions
+* Le Co-Pilote qui oublierait d'expliciter son intention, et dicterait directement les détails
 
-* [ ] The rotations don't take much time (2-5 seconds to rotate)
-* [ ] The new navigator is able to continue on easily 
-* [ ] People are feeling safe
+En tant que facilitateur, vous êtes là pour aiderles participants à apprendre et à apprécier le Mob.
+Si les participants sont perdus, ralentissez-les et faites en sorte qu'ils se réapproprient le sujet.
+Si l'un des participants a compris quelque chose, que les autres n'ont pas, faites en sorte qu'il puisse l'expliquer aux autres. 
+Si l'équipe est bloquée, rappelez-la à l'ordre pour la remettre sur les rails.
+Si les membres de l'équipe ne se respectent plus, rappelez-les à l'ordre également. 
+
+* [ ] Les rotations ne prennent pas trop de temps (2-5 secondes) 
+* [ ] Le nouveau Co-Pilote arrive facilement à ce que le Mob continue à un bon ryhtme
+* [ ] Les participants se sentent en sécurité
 
 ## Common Problems
 
