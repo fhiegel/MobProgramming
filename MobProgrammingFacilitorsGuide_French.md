@@ -117,7 +117,7 @@ Astuce : Si le Pilote comme à faire les choses de son propre chef, répétez si
 
 * [ ] Le Pilote écoute le Co-Pilote, et suit ses instructions
 
-#### Le Co-Pilote
+#### Le Co-Pilote (_Navigator_)
 
 Il exprime, dans cet ordre :
 
@@ -128,7 +128,7 @@ Il exprime, dans cet ordre :
 ```
 
 C'est ici que toute la réflexion devrait avoir lieu. 
-Assurez-vous de ménager suffisamment d'espace pour que le Co-Pilote (parfois appelé _'Navigateur'_ ou _'Navigato'_en anglis) puisse s'exprimer (cela signifie de faire taire les autres participants du mob).
+Assurez-vous de ménager suffisamment d'espace pour que le Co-Pilote (parfois appelé _'Navigateur'_ ou _'Navigator'_en anglais) puisse s'exprimer (cela signifie de faire taire les autres participants du mob).
 Il faut un peu de pratique pour le faire correctement. 
 
 L'intention du navigateur devrait être claire.
@@ -193,45 +193,54 @@ Si les membres de l'équipe ne se respectent plus, rappelez-les à l'ordre égal
 * [ ] Le nouveau Co-Pilote arrive facilement à ce que le Mob continue à un bon ryhtme
 * [ ] Les participants se sentent en sécurité
 
-## Common Problems
+## Problèmes fréquents
 
-### Vocabulary
- Situation: The navigator doesn't know how to describe something on the screen or really wants to grab the keyboard/mouse   
- Phrase: `use your words`  
- Exercise: [Strong Style Vocab](https://github.com/isidore/StrongStyleVocab)
+### Le Vocabulaire
 
-### I don't know what to do...
- The navigator isn't sure what to do and won't try anything.  
- Action: Pick something, anything  
- Phrase: `Failure helps us learn what success looks like`
- Tips:  
-  * Try smaller numbers. Don't try 4 if you haven't yet tried 1
-  * Guess. `3 should give llama right?`
-  * Multiple Ideas? Try all of them; then vote.
+Situation : Le Co-Pilote n'arrive pas à décrire quelque chose à l'écran, ou cherche à prendrele claviers ou la souris coûte que coûte,
+Faciliter : `Utilise tes propres mots`
+Exercice :  [Strong Style Vocab](https://github.com/isidore/StrongStyleVocab)
 
-### Let me discuss
- Lengthy explanations can be another form of inaction. Even though these usually come from a good place (wanting everyone to understand your reasoning), they are harmful.
- Make the navigator move and save the explanation for later if people are still confused. Don't let this turn into a meeting.
+### Je ne sais pas quoi faire
 
- There are 2 reasons I commonly see for this. 
+Situation : Le Co-Pilote n'est pas sûr de lui et n'arrive pas à essayer quoi que ce soit
+Action : Faites-le choisir quelque chose, n'importe quoi
+Faciliter : `L'échec nous aide à savoir à quoi ressemble de succès`
+Astuces :
 
- The first is the navigator is scared of being completely wrong or only partially right.  
+* "Essaye des nombres plus petits. N'essaye pas 4 tant que tu n'a pas essayé avec 1."
+* "Suppose. `3 devrait donner llama, non?`"
+* "Plusieurs idées ? Essaye-les toutes, et après on vote."
 
- The second is there are many choices and [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis#targetText=Analysis%20paralysis%20(or%20paralysis%20by,of%20action%20is%20decided%20upon.) takes over. 
+### Laissez-moi parler
 
- ```It's in the doing of the work that we discover the work we have to do - @WoodyZuill```
+De longs discours peuvent être une forme d'inaction.
+Même s'il partent d'une bonne intention, comme souhaiter que tout le monde comprenne votre raisonnement, ils sont nocifs. 
+Faites en sorte que le Co-Pilote avance, et conservez l'exdplication pour plus tard, si les participants n'ont toujours pas compris.
+Ne transformez pas la session de Mob en une réunion.
 
+Il y a deux raison principales qui entrainent cette situation :
 
-### That idea sucks
- Sometimes the driver, navigator, or mobber doesn't like a certain idea. That's ok, but it is not ok to not do it. Do it first then do it the other way. Then vote.
- Even if one of the ways is "Let's not do anything". Try that (it's quick), then try the idea. Then vote.
+1. La première, est que le Co-Pilote a peur de se tromper complètement, ou de n'avoir que partiellement raison
+1. La seconde, est qu'il y a trop de possibilités et que la [paralysie d'analyse](https://fr.wikipedia.org/wiki/Paralysie_d%27analyse) prend le dessus.
 
- Part of what we are learning is it's ok to make mistakes and do dumb things. This is a cornerstone of physiological safety.
+```
+C'est en faisant, que l'on décrouvre le reste à faire
+(It's in the doing of the work that we discover the work we have to do)
+— @WoodyZuill
+```
 
+### C'est une idée pourrie
 
-## Retro
+Parfois, le Pilote, le Co-Pilote, ou le reste du Mob, ne sont pas d'accord avec une idée proposée.
+C'est entendable, mais il n'est pas question de refuser de l'implémenter. D'abord, faites-le, puis faites-le d'une autre manière. Ensuite, votez.
+Même si l'une des propositions est "ne faisons rien" ; essayez-la (c'est assez rapide), puis essayez l'autre proposition. Ensuite, votez.
 
-### Videos (1st time only)
+Une partie de ce que nous apprenons dans cette première session, est qu'il est acceptable de faire des erreurs, et même des choses stupides. Il s'agit d'une pierre angulaire de la sécurité psychologique.
+
+## Rétropsective
+
+### Videos (en anglais, la 1ère fois uniquement)
 
 [You'll miss obvious things](https://www.youtube.com/watch?v=IGQmdoK_ZfY)  
 [You'll mishear things](https://www.youtube.com/watch?v=G-lN8vWm3m0)  
@@ -240,43 +249,50 @@ Si les membres de l'équipe ne se respectent plus, rappelez-les à l'ordre égal
 [How to use sticky notes](https://www.youtube.com/watch?v=1MeoeoIH5sk)  
 [Online MindMap](http://mindmup.com)  
 
- * [ ] I've shown the Retro videos (at least once) 
+ * [ ] J'ai montré les vidéos de la Rétro (au moins une fois)
 
-### Smaller focus for better seeing
-Go through each of the following areas for observations. What did you see new in:
-* Tools
-* Programming Language 
-* Product Domain
-* Process
-* The Team
-* Emotions felt (Need the emotion + the triggering event)
+### Réduisez le scope pour mieux comprendre
 
-<div class="page-break"></div>  
-#### Emotions
+Parcourez chacun des sujets suivants, pour collecter les points de vue des participants.
+Qu'avez vous-vu de nouveau dans :
+
+* Les outils
+* Le langage de programmation
+* Le domaine métier
+* Le processus
+* L'équipe
+* Les émotions ressernties (il faut l'émotion + l'événement qui l'a provoquée)
+
+#### Les Émotions
+
+Les émotions sont souvent quelque chose dont on ne tient pas compte au travail.
+Mais il s'agit d'un puissant indicateur permettant de mettre en évidence ce qui est **important**.
+Notre travail consiste à mobiliser notre esprit pour comprendre quoi.
 
 Emotions are often something not brought to work. But they are powerful indicators that something is **important**. Our job is to engage our analytical mind and find out what.
 
-[Language of emotions]()  
+> NdT : Ressources autour du language des émotions:
+> * [Le champ lexical des émotions](http://www.usep-sport-sante.org/OUTILS-AS/AS3/CD/outils2011/C-VIII-1-EMOTIONS.pdf)
+> [Le langage des émotions](http://www.fcppf.be/portfolio/items/le-langage-des-emotions/)
 
-| Emotion | Meaning | Explore |
-|---------|---------|---------|
-| Happy | a surprising good thing happened | What was it? How can it be reproduced? |
-| Angry| something important was threatened | What is important? Why is it vulnerable? Was it really in danger? |
-| Sad | something important isn't helping us any more | What was important? Why has it changed? How can we let it go?|
-| Fear | Stay alive! | What was the danger? How did we escape? How can we avoid it in the future? |
-| Anxious | Stop procrastinating, trouble is coming | What was the trouble? Why is it troubling? How can we take action?  |
-| Boredom | My energy can be better used | What is boring? Can this be removed or automated? Is it actually unimportant? |
-| Confusion | Focus, something's wrong | What am I confused about? Do I need to understand this completely? Can this be simpler? |
+| Émotion | Signification | Analyser |
+|---------|---------------|----------|
+| Joie | Une bonne choise surprenante est arrivée | Qu'est ce que c'était ? Comment pourrait-on le reproduire ? |
+| Colère | Quelque chose d'important a été menacé | Qu'est ce qui était important ? En quoi était-il vulnérable ? Why is it vulnerable? Was it really in danger? Était-il réellement en danger ? |
+| Tristesse | Quelque chose d'important ne nous aide plus | Qu'est ce qui était important ? En quoi a-t-il changé ? Comment peut-on le laisser partir ? |
+| Peur | Restons vivants ! | Quel a été le danger ? Comment s'en est on sortis ? Comment pourra-t-on l'éviter par la suite ? |
+| Anxiété | Arrêtons de procrastiner, les ennuis arrivent | Quels ont été les ennuis ? En quoi était-ce embêtant ? Comment peut-on agir ? |
+| Ennui | Mon énergie pourrait être mieux utilisée | Qu'est ce qui a été ennuyeux ? Est-ce qu'on peut s'en passer, ou l'automatiser ? Est-ce réellement sans importance? |
+| Confusion | Quelque chose ne vas pas | A quel sujet suis-je confus ? Est-ce que j'ai besoin de le comprendre entièrement ? Est-ce qu'on peut le simplifier ? |
 
 
+### Etapes
+1. Collectez les observations de tous les participants
+1. Lisez et regrouper les observations
 
-### Steps
-1) Collect Observations
-1) Read and group Observations
+## Informations complémentaires
 
-## More Information
+[Téléchargez le guide complet (en anglais)](http://mobprogrammingguidebook.com)  
 
-[Download the full guidebook](http://mobprogrammingguidebook.com)  
-
-[This guide at](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/)
+[Ce guide est disponible ici](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/)
 
