@@ -55,6 +55,8 @@ Quelques pistes :
 * Préparez un tableau blanc, ou un support similaire, sur lequel écrire
 * Bien que les thèmes sombres soient idéals pour programmer en solo, les thèmes clairs sont plus faciles à voir sur un projecteur ou une télévision
 
+
+
  * [ ] L'espace de travail est prêt
    * [ ] La police d'écriture est suffisamment grande pour être lisible de toute la pièce
    * [ ] L'écran est bien visible
@@ -62,35 +64,43 @@ Quelques pistes :
    * [ ] J'ai mis un chronomètre, permettant d'avoir du temps pour la rétro à la fin de l'atelier. 
     (30 minutes la première fois, 10-15 minutes ensuite) 
 
-## 1st Rotation
+## La première rotation
 
-The 1st rotation is where the most things can go wrong. 
-As a facilitator you will want to enforce stricter rules and restrictions in the beginning. After the mob is starting to work well, though, loosen up and allow more freedom.
+La première rotation est le moment où la plupart des choses vont de travers. 
+En tant que facilitateur, au début, vous voudrez appliquer strictement les règles et les restrictions.
+Une fois que le Mob commence à bien tourner, et bien, relâcher-vous et accordez plus de liberté. 
 
-Note: as a facilitator you will not be joining the rotations. 
+Remarque : en tant que facilitateur, vous ne participez pas aux rotations. 
 
-In future mobbings, you can make an exception for this if there is a very small group (2-3) or if you are trying to model some behavior 
+Dans des futures sessions, vous pourrez faire exception à cette règle, par exemple si vous vous retrouvez dans un très petit groupe (2-3 personnes), ou si vous cherchez à travailler certains comportements. 
 
-### State the Rules
+### Définir les règles
 
-#### Working agreements
+#### Charte de travail
 
-At the beginning of a mobbing session state the working agreements.
+Au début de la session de Mob programming, présentez une charte de travail collaboratif. 
 
-We agree to 
- * Treat each other with 
-   * Kindness
-   * Consideration
-   * & Respect
- * No phones or laptops during the mob
- * yes, and...
+Nous acceptons de :
 
- It is worth writing these down so everyone can see and refer back to them during the mob.
- It is a good idea to mention the no laptops ahead of time so no one brings them.
+ * Traiter chacun avec
+    * Gentillesse
+    * Considération
+    * & Respect
+ * N'utiliser ni téléphone, ni ordinateur au cours de la session
+ * Respecter la « règle du oui »
 
- [The 'yes, and...' rule](https://kicp-workshops.uchicago.edu/eo2014/pdf/Tina-Feys-rules-of-improv.pdf) refers to building on whatever came before you. It means you can't delete and start over when it is your turn. 
+Cela vaut la peine d'afficher ces règles bien en évidence, afin que chacun puisse les voir et s'y référer au cours de la session. 
+Idéalement, présentez la règle "pas d'ordinateurs" en amont de la session, afin que personne ne les apporte. 
 
- * [ ] I have explained the working agreements to the mob
+[La règle 'oui, et...'](https://kicp-workshops.uchicago.edu/eo2014/pdf/Tina-Feys-rules-of-improv.pdf) consiste à construire, en tenant compte de tout ce qu'il s'est passé avant vous.
+Ce qui signifie que vous ne pouvez pas tout effacer et repatir de zéro. 
+
+> NdT : voir aussi
+> https://theatrespontane.wordpress.com/2011/11/17/oui-et-construction-histoire-juxtaposition/
+> https://improetc.wordpress.com/2013/10/20/la-regle-du-oui/
+
+
+ * [ ] J'ai expliqué la charte de travail aux participants
 
 #### The Driver
 
