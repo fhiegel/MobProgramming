@@ -5,17 +5,18 @@ Ce document est un petit guide pour vous accompagner à la facilitation de votre
 Faciliter un Mob est une compétence à part entière, et ne nécessite pas d'expertise technique préalable.
 
 ## Choisir le problème
+
 L'objectif au début, devrait être de réaliser quelque chose de simple et de s'amuser en apprenant le Mob Programming. Ainsi, vous devriez commencer par un problème simple. 
 
 Comment savoir si un problème est suffisamment simple ?
 Demandez à vos développeurs s'ils pensent résoudre le problème, seuls, en moins d'une heure.
 
-Si vous êtes nouveau dans la pratique du mob programming, il est plus approprié de commencer par un exercice, et non par une tâche de production.
-Néanmoins, c'est possible de prendre une tâche simple de votre encourt, commencez petit. Encore plus petit. 
+Si vous êtes nouveau dans la pratique du Mob Programming, il serait préférable de commencer par un exercice simple décorrélée de tout projet concret.
+Si vous préférez tout de même prendre une tâche issue d'un projet concret, veillez à la choisir très simple.
 
-Si vous cherchez un exercice simple, le [Kata The FizzBuzz](http://codingdojo.org/kata/FizzBuzz/) reste un bon point de départ. 
+Si vous cherchez un exercice simple, le [kata FizzBuzz](http://codingdojo.org/kata/FizzBuzz/) constitue un bon point de départ. 
 
-**Anti-pattern** : Entreprendre quelque chose, que personne dans l'équipe, n'a encore fait. 
+**Anti-pattern** : Entreprendre quelque chose que personne dans l'équipe n'a encore fait. 
 
 ```
 Attention : 
@@ -23,7 +24,8 @@ Si le problème est trop difficile, votre équipe ne le résoudra pas et blâmer
 ```
 
 ### Configurer le PC
-Il est important d'avoir configuré le PC que vous comptez utiliser pour code, avant de démarrer la séance de Mob.
+
+Il est important d'avoir configuré le PC que vous comptez utiliser pour coder avant de démarrer la séance de Mob.
 Demandez à vos développeurs si tout est prêt afin de pouvoir coder.
 (Si vous faites du TDD, cela signifie d'avoir un test en erreur) 
 
@@ -33,8 +35,8 @@ Demandez à vos développeurs si tout est prêt afin de pouvoir coder.
 ## Planifier la session
 
 Une bonne séance de démarrage demande 90-120 minutes.
-Évitez si possible, de le faire sur la pause déjeuner. 
-Évitez également de vous précipiter en manquant le déjeuner, ou de finir en retard, car cela découragerait les gens de se présenter à la session suivante. 
+Évitez, si possible, de le faire sur la pause déjeuner. 
+Évitez également de vous précipiter en manquant le déjeuner, ou de finir en retard : le public ne serait pas motivé pour se rendre à la session suivante.
 
 ```
 L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recommencer le lendemain.
@@ -43,17 +45,16 @@ L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recom
 * [ ] J'ai planifié une session de Mob Programming, dans les agendas de tous les participants. 
 
 <div class="page-break"></div>
-
 ## Préparer l'espace de travail
 
 ![Mob Programming Setup](images/MobProgrammingSetup.png)
 
-La configuration de la plupart des salles, ne convient pas à la pratique du Mob Programming. 
-En tant que facilitateur, il est de votre ressort de réorganiser la salle du mieux que vous pouvez. 
+La configuration de la plupart des salles ne convient pas à la pratique du Mob Programming. 
+En tant que facilitateur, votre rôle est de réorganiser la salle le mieux possible. . 
 Quelques pistes :
 
 * Essayez de retirer toutes les sources de distraction
-* Facilitez le déplacement au travers de la pièce
+* Facilitez le déplacement à travers la pièce
 * Orientez tout le monde dans la même direction, idéalement, vers le même écran
 * Apportez une souris externe (un clavier externe est un plus) 
 * Préparez un tableau blanc, ou un support similaire, sur lequel écrire
@@ -61,7 +62,7 @@ Quelques pistes :
 
 
  * [ ] L'espace de travail est prêt
-   * [ ] La police d'écriture est suffisamment grande pour être lisible de toute la pièce
+   * [ ] La police d'écriture est suffisamment grande pour être lisible de tout le monde
    * [ ] L'écran est bien visible
    * [ ] On peut se déplacer facilement dans la pièce
    * [ ] J'ai mis un chronomètre, permettant d'avoir du temps pour la rétro à la fin de l'atelier. 
@@ -69,9 +70,8 @@ Quelques pistes :
 
 ## La première rotation
 
-La première rotation est le moment où la plupart des choses vont de travers. 
-En tant que facilitateur, au début, vous voudrez appliquer strictement les règles et les restrictions.
-Une fois que le Mob commence à bien tourner, relâchez-vous et accordez plus de liberté. 
+La première rotation est le moment où la plupart des choses peuvent aller de travers. 
+En tant que facilitateur, il est préférable d'appliquer strictement les règles et les restrictions au départ et d'accorder plus de souplesse par la suite quand le mob commence à bien tourner
 
 Remarque : en tant que facilitateur, vous ne participez pas aux rotations. 
 
@@ -95,7 +95,7 @@ Nous acceptons de :
 Cela vaut la peine d'afficher ces règles bien en évidence, afin que chacun puisse les voir et s'y référer au cours de la session. 
 Idéalement, présentez la règle "pas d'ordinateurs" en amont de la session, afin que personne ne les apporte. 
 
-[La règle 'oui, et...'](https://kicp-workshops.uchicago.edu/eo2014/pdf/Tina-Feys-rules-of-improv.pdf) consiste à construire, en tenant compte de tout ce qui s'est passé avant vous.
+La [« règle du oui »](https://kicp-workshops.uchicago.edu/eo2014/pdf/Tina-Feys-rules-of-improv.pdf) consiste à enrichir ce qui été fait avant vous.
 Ce qui signifie que vous ne pouvez pas tout effacer et repartir de zéro. 
 
 > NdT : voir aussi
@@ -112,7 +112,7 @@ Ne pas cogiter au clavier
 ```
 
 La personne au clavier est appelée `Le Pilote` (parfois appelé _'Conducteur'_ ou _'Driver'_ en anglais).
-Il s'agit de la seule personne qui écrit au clavier.
+C'est la seule personne qui écrit le code.
 Il peut poser des questions, mais ne doit pas prendre de décision. 
 
 Astuce : Si le Pilote commence à faire les choses de son propre chef, répétez simplement à haute voix, la règle `Ne pas cogiter au clavier`
@@ -130,24 +130,24 @@ Il exprime, dans cet ordre :
 ```
 
 C'est ici que toute la réflexion devrait avoir lieu. 
-Assurez-vous de ménager suffisamment d'espace pour que le Co-Pilote (parfois appelé _'Navigateur'_ ou _'Navigator'_ en anglais) puisse s'exprimer (cela signifie de faire taire les autres participants du mob).
+Assurez-vous de ménager suffisamment d'espace pour que le Co-Pilote (parfois appelé _'Navigateur'_ ou _'Navigator'_ en anglais) puisse s'exprimer (cela signifie de faire taire les autres participants du Mob).
 Il faut un peu de pratique pour le faire correctement. 
 
 L'intention du navigateur devrait être claire.
 Cela demande parfois d'écrire un exemple sur le tableau blanc, un commentaire dans le code, ou une checklist dans un notepad. 
 
-Assurez-vous continuellement que le Co-Pilote est en train de faire quelque chose, et fait avancer le mob.
+Assurez-vous continuellement que le Co-Pilote est en train de faire quelque chose, et fait avancer le Mob.
 Ne perdez pas trop de temps à discuter de quoi faire.
 Il est préférable de faire quelque chose de faux, plutôt que de ne rien faire. 
-Si le mob est bloqué, aiguillez-le avec quelques questions.
+Si le Mob est bloqué, aiguillez-le avec quelques questions.
 Si le débat s'éternise, poussez-les à prendre une **petite** décision (il sera toujours temps de revenir dessus ensuite). 
 
 Deux bonnes questions à poser :
 
 1. Est-ce que cela fonctionne ? 
-1. Est-ce que vous voyez une meilleure manière d'écrire le code ? 
+2. Est-ce que vous voyez une meilleure manière d'écrire le code ? 
 
-#### Le Mob
+#### Les autres participants
 
 Au début, les participants au Mob renstent silencieux, et écoutent ce qui se passe.
 C'est assez difficile, et demande un peu de pratique.
@@ -157,7 +157,7 @@ Par exemple:
 
 >*Co-Pilote*:  Que devrait-on faire ?
 *Mobber 1*: Je pense que l'on devrait déboguer. 
-*Mobber 2*: Je cautionne. 
+*Mobber 2*: Je suis d'accord. 
 *Co-Pilote*: Pilote, Peux-tu ouvrir le débogueur ? 
 
 Astuce : Si vous avez deux personnes timides, ou nouvelles dans le domaine, séparez-les pour qu'ils ne soient pas dans la même paire "Pilote/Co-Pilote"
@@ -187,7 +187,7 @@ Gardez un oeil sur :
 
 En tant que facilitateur, vous êtes là pour aider les participants à apprendre et à apprécier le Mob.
 Si les participants sont perdus, ralentissez-les et faites en sorte qu'ils se réapproprient le sujet.
-Si l'un des participants a compris quelque chose, que les autres n'ont pas, faites en sorte qu'il puisse l'expliquer aux autres. 
+Si l'un des participants est le seul à avoir a compris quelque chose, faites en sorte qu'il puisse l'expliquer aux autres. 
 Si l'équipe est bloquée, rappelez-la à l'ordre pour la remettre sur les rails.
 Si les membres de l'équipe ne se respectent plus, rappelez-les à l'ordre également. 
 
@@ -201,7 +201,7 @@ Si les membres de l'équipe ne se respectent plus, rappelez-les à l'ordre égal
 
 Situation : Le Co-Pilote n'arrive pas à décrire quelque chose à l'écran, ou cherche à prendre le clavier ou la souris coûte que coûte,
 Faciliter : `Utilise tes propres mots`
-Exercice :  [Strong Style Vocab](https://github.com/isidore/StrongStyleVocab)
+S'améliorer :  [terminologie normalisée](https://github.com/isidore/StrongStyleVocab)
 
 ### Je ne sais pas quoi faire
 
@@ -223,8 +223,8 @@ Ne transformez pas la session de Mob en une réunion.
 
 Il y a deux raisons principales qui entrainent cette situation :
 
-1. La première, est que le Co-Pilote a peur de se tromper complètement, ou de n'avoir que partiellement raison
-1. La seconde, est qu'il y a trop de possibilités et que la [paralysie d'analyse](https://fr.wikipedia.org/wiki/Paralysie_d%27analyse) prend le dessus.
+1. le Co-Pilote a peur de se tromper complètement, ou de n'avoir que partiellement raison
+2. 'il y a trop de possibilités et que la [paralysie d'analyse](https://fr.wikipedia.org/wiki/Paralysie_d%27analyse) prend le dessus.
 
 ```
 C'est en faisant, que l'on découvre ce qu'il nous reste à faire
@@ -235,8 +235,9 @@ C'est en faisant, que l'on découvre ce qu'il nous reste à faire
 ### C'est une idée pourrie
 
 Parfois, le Pilote, le Co-Pilote, ou le reste du Mob, ne sont pas d'accord avec une idée proposée.
-C'est entendable, mais il n'est pas question de refuser de l'implémenter. D'abord, faites-le, puis faites-le d'une autre manière. Ensuite, votez.
-Même si l'une des propositions est "ne faisons rien" ; essayez-la (c'est assez rapide), puis essayez l'autre proposition. Ensuite, votez.
+Ce n'est pas grave mais il faut absolument l'implémenter. Commencez par faire ce qui a été proposé, puis faites-le d'une autre manière. Puis, votez.
+
+Si l'une des contre-propositions est "ne faisons rien", commencez par ça (c'est assez rapide) puis essayez la proposition initiale. Puis, votez.
 
 Une partie de ce que nous apprenons dans cette première session, est qu'il est acceptable de faire des erreurs, et même des choses stupides. Il s'agit d'une pierre angulaire de la sécurité psychologique.
 
@@ -253,7 +254,7 @@ Une partie de ce que nous apprenons dans cette première session, est qu'il est 
 
  * [ ] J'ai montré les vidéos de la Rétro (au moins une fois)
 
-### Réduisez le scope pour mieux comprendre
+### Zoomez pour mieux voir
 
 Parcourez chacun des sujets suivants, pour collecter les points de vue des participants.
 Qu'avez-vous vu de nouveau dans :
@@ -287,8 +288,9 @@ Notre travail consiste à mobiliser notre esprit pour comprendre quoi.
 
 
 ### Etapes
+
 1. Collectez les observations de tous les participants
-1. Lisez et regroupez les observations
+2. Lisez et regroupez les observations
 
 ## Informations complémentaires
 
