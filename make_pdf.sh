@@ -2,5 +2,7 @@
 
 # https://www.npmjs.com/package/md-to-pdf
 # npm i -g md-to-pdf
-md-to-pdf MobProgrammingFacilitorsGuide_English.checklist.md
-md-to-pdf MobProgrammingFacilitorsGuide_English.md
+
+lang=French
+md-to-pdf "MobProgrammingFacilitorsGuide_${lang}.checklist.md"
+md-to-pdf "MobProgrammingFacilitorsGuide_${lang}.md"

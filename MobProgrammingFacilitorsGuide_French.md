@@ -45,6 +45,7 @@ L'objectif principal, est de s'amuser et de quitter le Mob avec l'envie de recom
 * [ ] J'ai planifié une session de Mob Programming, dans les agendas de tous les participants. 
 
 <div class="page-break"></div>
+
 ## Préparer l'espace de travail
 
 ![Mob Programming Setup](images/MobProgrammingSetup.png)
