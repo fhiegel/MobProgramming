@@ -1,25 +1,25 @@
-## Picking the problem  
-* [ ] I have an easy problem selected.
-* [ ] I have asked my developer to setup a computer to program on.
-## Picking a time
-* [ ] I have a scheduled a time for mobbing on everyone's calendar
-## Setting up the Space
- * [ ] The space is setup
-   * [ ] The font is big enough that everyone can read it from any place in the room
-   * [ ] The screen is easy to see
-   * [ ] It is easy to move around
-   * [ ] I have set a timer to leave space for the retrospective at the end   
-## 1st Rotation
- * [ ] I have explained the working agreements to the mob
-* [ ] The driver is listening and following the navigator
-* [ ] Your phone has a 2-4 minute timer with a sound when done.
-* [ ] The Team has made some (small) progress
-* [ ] Everyone is talking and listening
-## Rotations
-* [ ] The rotations don't take much time (2-5 seconds to rotate)
-* [ ] The new navigator is able to continue on easily 
-* [ ] People are feeling safe
-## Common Problems
-## Retro
- * [ ] I've shown the Retro videos (at least once) 
-## More Information
+## Choisir le problème
+* [ ] J'ai sélectionné un problème simple. 
+* [ ] J'ai demandé à mes développeurs de préparer un ordinateur sur lequel coder. 
+## Planifier la session
+* [ ] J'ai planifié une session de Mob Programming, dans les agendas de tous les participants. 
+## Préparer l'espace de travail
+ * [ ] L'espace de travail est prêt
+   * [ ] La police d'écriture est suffisamment grande pour être lisible de tout le monde
+   * [ ] L'écran est bien visible
+   * [ ] On peut se déplacer facilement dans la pièce
+   * [ ] J'ai mis un chronomètre, permettant d'avoir du temps pour la rétro à la fin de l'atelier. 
+## La première rotation
+ * [ ] J'ai expliqué la charte de travail aux participants
+* [ ] Le Pilote écoute le Co-Pilote, et suit ses instructions
+* [ ] Votre téléphone a un minuteur de 2-4 minutes, avec une sonnerie
+* [ ] L'équipe a fait quelques (petits) progrès
+* [ ] Tout le monde parle et écoute. 
+## Les Rotations
+* [ ] Les rotations ne prennent pas trop de temps (2-5 secondes) 
+* [ ] Le nouveau Co-Pilote arrive facilement à ce que le Mob continue à un bon rythme
+* [ ] Les participants se sentent en sécurité
+## Problèmes fréquents
+## Rétrospective
+ * [ ] J'ai montré les vidéos de la Rétro (au moins une fois)
+## Informations complémentaires
